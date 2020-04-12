@@ -17,6 +17,7 @@ and maybe even play with other strangers.
 ## Component Parts
 
 Hardware: Camera
+
 Software: p5.js / ml5.js
 
 
@@ -34,6 +35,9 @@ after the projection has more than 10 body shapes.
 ## Timeline
 
 Week 1: Write proposal. Get Posenet working — 1. Detect bodies. 2. Attach shapes on bodies.
+
 Week 2: Build timer/capture aspect on to the experience.
+
 Week 3: Make sure canvas resets after 10 stamps.
+
 Week 4: Present
