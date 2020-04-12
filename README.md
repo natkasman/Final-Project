@@ -16,11 +16,8 @@ and maybe even play with other strangers.
 
 ## Component Parts
 
-Hardware
-• Camera
-
-Software
-• p5.js / ml5.js
+Hardware: Camera
+Software: p5.js / ml5.js
 
 
 ## Challenges
