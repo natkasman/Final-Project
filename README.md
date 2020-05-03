@@ -51,3 +51,7 @@ View here: https://editor.p5js.org/natkasman/sketches/reB8_ofKA
 ## Reflections
 
 BodyPix made it so much easier! I thought I was going to spend a huge chunk of my time trying to create the shapes for each individual body parts, but BodyPix saved all that time for me. What was unexpected was spending a chunk of time trying to figure out how to incorporate the timer to my sketch — primarily because the base code didn't have a draw() – which was something I'm not familiar with. Another challenge was trying to implement the timer code I had (I did it separately) and stitch it to my main sketch. Initially, because I had set the sketch to be automatically downloaded when the timer reaches 0:00, it kept on downloading and FLOODED MY DOWNLOADS FOLDER. I quickly learned that I needed to add booleans/states to solve that problem. (I had initially thought just setInterval would suffice).
+
+![] (11F0096E-955C-4C65-9354-C7871930588A.GIF)
+
+
