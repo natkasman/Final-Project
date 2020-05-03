@@ -54,3 +54,4 @@ BodyPix made it so much easier! I thought I was going to spend a huge chunk of m
 
 ![](flood.gif)
 
+My original idea was to have it capture people who are standing still, but with the time I had, I chose to focus on creating something functional that conveys the main idea I have. Overall pleased with the results :)
