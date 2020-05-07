@@ -44,6 +44,7 @@ Week 4: Present
 
 
 # Final Outcome
+![](SillhouteStamp.gif)
 
 View here: https://editor.p5js.org/natkasman/sketches/reB8_ofKA
 
